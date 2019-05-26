@@ -4,4 +4,7 @@ The replication is based on the publication " Recurrent Models of Visual Attenti
 ![alt text](/RM-images/Network.png "RAM Model")
 
 The data_gen file generates the data instances used by the publication including translated and cluttered MNIST.
-![alt text](/RM-images/MNIST60C.png?raw=true "Cluttered 60 x 60 MNIST") ![alt text](/RM-images/MNIST100C.png?raw=true "Cluttered 100 x 100 MNIST")
+  
+   
+![alt text](/RM-images/MNIST60C.png?raw=true "Cluttered 60 x 60 MNIST") 
+![alt text](/RM-images/MNIST100C.png?raw=true "Cluttered 100 x 100 MNIST")
